@@ -303,6 +303,11 @@ _________________________________*/
 		margin: auto;
 		margin-top: 1vh;
 	}
+	.story-box .img{
+		width: 33vw;
+		margin-top: 2vh;
+	}
+
 
 	video {
 		padding-top: 1vh;
