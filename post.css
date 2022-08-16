@@ -360,6 +360,11 @@ _________________________________*/
 	.back-button {
 		height: 3vh;
 	}
+	.story-box img{
+		width: 33vw;
+		margin-top: 2vh;
+	}
+
 
 	.back-pub {
 		height: 3vh;
